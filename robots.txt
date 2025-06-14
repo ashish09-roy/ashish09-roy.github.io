@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashish09-roy.github.io/YugNotes/sitemap.xml
